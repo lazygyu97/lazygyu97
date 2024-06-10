@@ -1,7 +1,7 @@
 
 <div align="center">
 
- 
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=LazyGyu's%20Github✋&animation=fadeIn&height=200&section=header&fontColor=ffffff&fontSize=32&fontAlignY=34)
 
 <h3 align="center">📞 Contact 📞</h3>
