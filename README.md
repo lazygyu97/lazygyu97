@@ -54,7 +54,7 @@
 <div align="center">
 
 [![LazyGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazygyu97&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/lazygyu97/github-readme-stats)
-
+<br><br>
 </div>
 
 </div>
